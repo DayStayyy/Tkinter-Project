@@ -1,0 +1,37 @@
+
+list des num boutons avec le signe
+[1,2,3,4,5,6,7,8,9]
+[" ","x","o"]
+
+
+-class joueur :
+	definie joueur 1 et 2
+	leur signes
+
+
+class interface :
+	taille
+	
+	aff des images
+	aff des boutons
+	
+	fonction appuie sur un boutons 
+		on recupere le signe du joueur
+		on lance *image
+		on lance *le changement de signe dans la liste
+		on lance *verifie victoire
+		si victoire on lance *victoire
+		on lance *changement joueur
+
+	*fonction remplacement image
+		destroy
+		aff image
+ 
+
+	*changement de signe dans la liste
+
+	*verife victiore
+	
+	*victoire
+	
+	*changement joueur 	
